@@ -1,4 +1,4 @@
-Deployment link : https://app.netlify.com/sites/flavoro-food-online
+Deployment link : https://flavoro-food-online.netlify.app/
 
 # React + Vite
 
