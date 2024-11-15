@@ -1,5 +1,4 @@
-Deployment link : https://willowy-gaufre-fb7997.netlify.app/
-
+Deployment link : https://app.netlify.com/sites/flavoro-food-online
 
 # React + Vite
 
